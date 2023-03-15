@@ -1,8 +1,0 @@
-dreamsampleサーバーに自身のGithubで作ったリポジトリをクローンして、プルしてみる
-dreamsampleの接続はSSHで接続する
-
-
-FTPサーバ名     ： dreamsample.sakura.ne.jp
-FTPアカウント   ： dreamsample
-FTP初期フォルダ ： www
-サーバパスワード： %yua7%fd8
